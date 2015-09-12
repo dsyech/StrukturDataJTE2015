@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ Kompleks()
+comment1.params=real\ imajiner
+comment1.target=void\ Kompleks(double,\ double)
+comment2.params=r
+comment2.target=void\ real(double)
+comment3.params=
+comment3.target=double\ real()
+comment4.params=i
+comment4.target=void\ imajiner(double)
+comment5.params=
+comment5.target=double\ imajiner()
+comment6.params=kiri\ kanan
+comment6.target=void\ tambah(Kompleks,\ Kompleks)
+comment7.params=kiri\ kanan
+comment7.target=void\ kurang(Kompleks,\ Kompleks)
+comment8.params=kiri\ kanan
+comment8.target=void\ kali(Kompleks,\ Kompleks)
+numComments=9

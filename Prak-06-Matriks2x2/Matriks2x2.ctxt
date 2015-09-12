@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Matriks2x2()
+comment1.params=a\ b\ c\ d
+comment1.target=Matriks2x2(int,\ int,\ int,\ int)
+comment2.params=baris\ kolom
+comment2.target=void\ elemen(int,\ int)
+comment3.params=a11\ a12\ a21\ a22
+comment3.target=void\ tambah(int,\ int,\ int,\ int)
+comment4.params=a11\ a12\ a21\ a22
+comment4.target=void\ kurang(int,\ int,\ int,\ int)
+comment5.params=a11\ a12\ a21\ a22
+comment5.target=void\ kali(int,\ int,\ int,\ int)
+numComments=6
