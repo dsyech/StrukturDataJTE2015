@@ -2,7 +2,7 @@
 /**
  * Write a description of class Matriks2x2 here.
  * 
- * @author (your name) 
+ * @author (darmawansyah) 
  * @version (a version number or a date)
  */
 public class Matriks2x2
