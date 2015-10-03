@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ tipe()
+comment1.params=radiusPendek\ radiusPanjang
+comment1.target=Elips(double,\ double)
+comment2.params=
+comment2.target=double\ radiusPendek()
+comment3.params=
+comment3.target=double\ radiusPanjang()
+numComments=4
